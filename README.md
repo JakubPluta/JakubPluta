@@ -44,7 +44,7 @@ I am a Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ### 🔥 &nbsp; My Stats :
 ![JP's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubPluta&show_icons=true&exclude_repo=EDA-ML&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubPluta&exclude_repo=EDA-ML&layout=donut&theme=transparent&hide=c,html)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubPluta&exclude_repo=EDA-ML&layout=donut&theme=transparent&hide=c,c++)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JakubPluta)
 
