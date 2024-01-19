@@ -13,7 +13,7 @@
 #### About Me :
 
 I am a Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
 ---
 
 #### 🛠 &nbsp; Languages and Tools I worked with:
