@@ -1,11 +1,10 @@
 
 <h3 align="center" style="font-family: Roboto; font-size: 3em; display: inline; margin: 0 0 0.25em 0.25em;">Data Engineer & Python Developer</h3>
-<h5 align="center" style="font-family: Roboto; font-size: 2em; display: inline; margin: 0 0 0.25em 0.25em; font-weight: 100;">Jakub Pluta</h3>
 
 
 <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZ0YjY0emtteDkxYndqMzB4ZnBvZ2kwYmV4YnZpYm9jaDYza290MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kBNlnTKValswvdPSga/giphy.gif" width="250"/></p>
 <p align="center">
-<a href="www.linkedin.com/in/jp0x"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/jp0x"></a>
+<a href="https://www.linkedin.com/in/jp0x"><img src="https://img.shields.io/badge/JakubPluta-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/jp0x"></a>
 </p>
 <p align="center">
 <a><img src="https://komarev.com/ghpvc/?username=JakubPluta&style=flat-square&color=blue" alt=""/></a>
@@ -14,7 +13,7 @@
 #### About Me :
 
 I am a Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
-
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 ---
 
 #### 🛠 &nbsp; Languages and Tools I worked with:
