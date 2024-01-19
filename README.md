@@ -56,10 +56,10 @@ I am a Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ### 🔥 &nbsp; My Stats :
 <a href="https://github.com/JakubPluta">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JakubPluta&show_icons=true&exclude_repo=EDA-ML,OpenBBTerminal&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JakubPluta&show_icons=true&exclude_repo=EDA-ML,OpenBBTerminal&theme=tokyonight"/>
 </a>
 <a href="https://github.com/JakubPluta">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakubPluta&exclude_repo=EDA-ML&layout=compact&theme=tokyonight&hide=c,c++&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakubPluta&exclude_repo=EDA-ML&layout=compact&theme=tokyonight&hide=c,c++&card_width=300" />
 </a>
 
 <a href="https://github.com/JakubPluta">
