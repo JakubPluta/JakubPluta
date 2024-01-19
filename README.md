@@ -1,4 +1,8 @@
-<p align="center" >Data Engineer & Python Developer</p>
+
+<h3 align="center" style="font-family: Roboto; font-size: 3em; display: inline; margin: 0 0 0.25em 0.25em;">Data Engineer & Python Developer</h3>
+<h5 align="center" style="font-family: Roboto; font-size: 2em; display: inline; margin: 0 0 0.25em 0.25em; font-weight: 100;">Jakub Pluta</h3>
+
+
 <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZ0YjY0emtteDkxYndqMzB4ZnBvZ2kwYmV4YnZpYm9jaDYza290MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kBNlnTKValswvdPSga/giphy.gif" width="250"/></p>
 <p align="center">
 <a href="www.linkedin.com/in/jp0x"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
@@ -10,8 +14,6 @@
 ### About Me :
 
 I am a Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
-
-- 🔭 I’m working as a Data Engineer 
 
 ---
 
@@ -43,9 +45,16 @@ I am a Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ---
 
 ### 🔥 &nbsp; My Stats :
-![JP's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubPluta&show_icons=true&exclude_repo=EDA-ML&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubPluta&exclude_repo=EDA-ML&layout=donut&theme=transparent&hide=c,c++)
+<a href="https://github.com/JakubPluta">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JakubPluta&show_icons=true&exclude_repo=EDA-ML,OpenBBTerminal&theme=tokyonight" />
+</a>
+<a href="https://github.com/JakubPluta">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakubPluta&exclude_repo=EDA-ML&layout=compact&theme=tokyonight&hide=c,c++&card_width=320" />
+</a>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JakubPluta)
+<a href="https://github.com/JakubPluta">
+  <img height=200 align="left" src="http://github-readme-streak-stats.herokuapp.com?user=JakubPluta&theme=ayu-mirage&border_radius=10&mode=weekly&card_width=850" />
+</a>
 
----
+
+
