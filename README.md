@@ -63,7 +63,7 @@ I am a Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 </a>
 
 <a href="https://github.com/JakubPluta">
-  <img height=200 align="left" src="http://github-readme-streak-stats.herokuapp.com?user=JakubPluta&theme=ayu-mirage&border_radius=10&mode=weekly&card_width=850" />
+  <img height=200 align="left" src="http://github-readme-streak-stats.herokuapp.com?user=JakubPluta&theme=ayu-mirage&border_radius=10&mode=weekly&card_width=800" />
 </a>
 
 
