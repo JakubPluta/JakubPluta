@@ -4,10 +4,10 @@
 
 <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZ0YjY0emtteDkxYndqMzB4ZnBvZ2kwYmV4YnZpYm9jaDYza290MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kBNlnTKValswvdPSga/giphy.gif" width="200"/></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/jp0x"><img src="https://img.shields.io/badge/JakubPluta-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/jp0x"></a>
+<a href="https://www.linkedin.com/in/jp0x"><img src="https://img.shields.io/badge/LinkedIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/jp0x"></a>
 </p>
 <p align="center">
-<a><img src="https://komarev.com/ghpvc/?username=JakubPluta&style=flat-square&color=blue" alt=""/></a>
+
 </p>
 
 #### About Me :
